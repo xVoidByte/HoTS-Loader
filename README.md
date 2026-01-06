@@ -1,5 +1,8 @@
 # HoTS Direct Launcher
 
+[![Video Preview](https://i.ibb.co/6cXfzy1M/Screenshot-2026-01-06-181523.png)](https://www.youtube.com/watch?v=4BO0eQdFf5w)
+
+
 Bypass Battle.net completely and launch Heroes of the Storm directly from the loader, no need to wait for b.net to run game update checks, no background processes eating your RAM/CPU.
 
 **Why this project?**  
