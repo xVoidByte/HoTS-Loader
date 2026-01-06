@@ -84,4 +84,4 @@ Like this project? Buy me a coffee: https://ko-fi.com/xvoidbyte
 
 ## Issues/Features: 
 
-Create a GitHub issue with detailed information.
+Create a GitHub issue with detailed information or a PR for any features you would like to see implemented.
