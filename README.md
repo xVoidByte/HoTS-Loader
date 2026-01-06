@@ -16,7 +16,7 @@ The script finds your game installation, handles authentication through command 
 
 ## Installation
 
-1. Download and extract to any folder
+1. [Download latest release](https://github.com/xVoidByte/HoTS-Loader/releases/latest) and extract to any folder
 2. Right-click `HoTSLoader.ps1` -> Properties -> Check "Unblock" -> Apply (unless already unblocked)
 
 ## First Run (Required)
